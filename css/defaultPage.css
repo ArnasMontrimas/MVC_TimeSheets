@@ -1,0 +1,31 @@
+#defaultContainer {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    font-size: 2em;
+}
+/*
+    Here im making an animation and giving it a name
+    This is not my original animation and is from the
+    Animate.css library
+*/
+@keyframes lightSpeedIn {
+    0% {
+        transform: translate3d(60%,0,0) skewX(-30deg);
+        opacity: 0;
+    }
+    60% {
+        transform: skewX(20deg);
+        opacity: 1;
+    }
+    80% {
+        transform: skewX(-5deg);
+    }
+
+    to {
+        transform: translateZ(0);
+    }
+}
+.lightSpeedIn {
+    animation: lightSpeedIn 1s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}

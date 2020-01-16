@@ -1,0 +1,9 @@
+body {
+    height: auto;
+}
+main > h2 {
+    display: flex;
+    justify-content: center;
+    color: red;
+    margin: 150px 0 150px 0;
+}

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0fe8a0b-2d09-4f00-a19b-1c229a7c5e0a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1URB5j7gpRb40872Li0XmZbSKHo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\MVC_TimeSheets(CA2)\myColorSchema" />
+      <recent name="C:\xampp\htdocs\MVC_TimeSheets(CA2)\images" />
+      <recent name="C:\xampp\htdocs\MVC_TimeSheets(CA2)\css" />
+      <recent name="C:\xampp\htdocs\MVC_TimeSheets(CA2)\javascript" />
+      <recent name="C:\xampp\htdocs\MVC_TimeSheets(CA2)\model" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0fe8a0b-2d09-4f00-a19b-1c229a7c5e0a" name="Default Changelist" comment="" />
+      <created>1575309345882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575309345882</updated>
+      <workItem from="1575309349129" duration="53000" />
+      <workItem from="1575309432872" duration="5005000" />
+      <workItem from="1575397327906" duration="50000" />
+      <workItem from="1575397472582" duration="27000" />
+      <workItem from="1575397508161" duration="6904000" />
+      <workItem from="1575486594919" duration="3626000" />
+      <workItem from="1575642640615" duration="17812000" />
+      <workItem from="1575834476208" duration="14746000" />
+      <workItem from="1575911598018" duration="15086000" />
+      <workItem from="1575927679536" duration="1729000" />
+      <workItem from="1576013961628" duration="12190000" />
+      <workItem from="1576781547681" duration="6503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575397496130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575397496130" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575927389882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575927389882" />
+    <state width="1855" height="94" key="GridCell.Tab.0.bottom" timestamp="1575840060832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="94" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575840060832" />
+    <state width="1855" height="94" key="GridCell.Tab.0.center" timestamp="1575840060831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="94" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575840060831" />
+    <state width="1855" height="94" key="GridCell.Tab.0.left" timestamp="1575840060830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="94" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575840060830" />
+    <state width="1855" height="94" key="GridCell.Tab.0.right" timestamp="1575840060831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="94" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575840060831" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1576024695278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576024695278" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1576781565064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576781565064" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1576020854690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576020854690" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1575917775883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575917775883" />
+  </component>
+</project>

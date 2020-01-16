@@ -1,0 +1,150 @@
+#employeeInfo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: 100%;
+    border-bottom: solid var(--border-color) 3px;
+    margin-bottom: 20px;
+}
+#employeeInfo article {
+    flex-basis: 50%;
+}
+#formContainer {
+    padding: 10px 0 10px 0;
+}
+section > form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+section > form > label {
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 40%;
+    margin-bottom: 15px;
+}
+#submitContainer {
+    display: flex;
+    justify-content: center;
+    flex-basis: 40%;
+    margin-top: 10px;
+}
+section > form > label > input {
+    border-radius: 5px;
+    font-weight: bold;
+    border: solid var(--border-color) 3px;
+    background-color: var(--main-bg-color);
+    color: var(--text-color);
+}
+input[type=submit], button {
+    font-size: 1em;
+    border: solid var(--border-color) 5px;
+    background-color: var(--border-color);
+    color: var(--text-color);
+    border-radius: 5px;
+    text-decoration: none;
+    transition: color .25s cubic-bezier(0.55, 0.09, 0.68, 0.53);
+}
+input[type=submit]:hover, button:hover {
+    cursor: auto;
+    color: var(--hover-color);
+}
+button {
+    font-size: 0.85em;
+    font-weight: bolder;
+}
+.removeBold {
+    font-weight: normal;
+}
+.validationFalse {
+    border: solid red 5px;
+}
+/* This CSS is for the employeeTimesheetAddOn.php (page) */
+section > header {
+    display: flex;
+    flex-basis: 100%;
+    justify-content: flex-start;
+    font-size: 1.2em;
+}
+#addOnnSectionContainer {
+    width: 100%;
+}
+#tableContainer {
+    display: flex;
+    justify-content: center;
+}
+table {
+    flex-basis: 100%;
+    font-size: 0.9em;
+}
+tr {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}
+
+th, td {
+    display: flex;
+    justify-content: center;
+    flex-basis: 10%;
+}
+tr:nth-child(1) {
+    border-bottom: solid var(--border-color) 3px;
+    padding-bottom: 10px;
+}
+td {
+    border-right: solid var(--border-color) 3px;
+}
+.addLeftBorderToTD {
+    border-left: solid var(--border-color) 3px;;
+}
+#theTotalsRow {
+    border-top: solid var(--border-color) 3px;
+}
+/*Media Query*/
+@media screen and (max-width: 768px) {
+    #employeeInfo article {
+        flex-basis: 100%;
+        padding-left: 20%;
+    }
+    section > form > label {
+        flex-basis: 100%;
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+    #tableContainer {
+        overflow-x: auto;
+    }
+    table {
+
+    }
+    table tr {
+        flex-direction: column;
+        justify-content: space-between;
+        width: 15%;
+        float: left;
+    }
+    tr:nth-child(1) {
+        border-bottom: none;
+        border-right: solid var(--border-color) 3px;
+        padding-bottom: 10px;
+    }
+    td {
+        border-right: solid var(--border-color) 3px;
+    }
+    .addLeftBorderToTD {
+        border-left: none;
+    }
+    #theTotalsRow {
+        border-top: none;
+    }
+    tr td, tr th {
+        margin-bottom: 7px;
+    }
+    tr th {
+        border-bottom: solid var(--border-color) 1px
+    }
+
+}

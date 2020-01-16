@@ -1,0 +1,82 @@
+/* Variables */
+:root {
+    --main-bg-color: #1D3557;
+    --text-color: #DFF8EB;
+    --border-color: #457B9D;
+    --hover-color: #222222;
+}
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+    box-sizing: border-box;
+    height: 100%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body {
+    font: 1em Verdana, Arial, Helvetica, sans-serif;
+    background-color: var(--main-bg-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 0;
+    height: inherit;
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 1080px;
+    min-width: 460px;
+    margin: 0 auto;
+    height: inherit;
+}
+header, nav{
+    overflow: hidden;
+}
+img {
+    width: 100%;
+    height: auto;
+    padding-bottom: 5px;
+    border-radius: 3px;
+    border-bottom: solid var(--border-color) 3px;
+    margin-bottom: 0;
+    opacity: 0.95;
+}
+nav {
+    text-align: center;
+    border-bottom: solid var(--border-color) 3px;
+}
+a {
+    font-size: 1.5em;
+    border: solid var(--border-color) 5px;
+    background-color: var(--border-color);
+    color: var(--text-color);
+    border-radius: 5px;
+    text-decoration: none;
+    transition: color .25s cubic-bezier(0.55, 0.09, 0.68, 0.53)
+}
+a:hover {
+    color: var(--hover-color);
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 0;
+    list-style: none;
+    margin: 17px 0 20px 0;
+}
+footer {
+    display: flex;
+    align-items: flex-end;
+}
+#footerSection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    border-top: solid var(--border-color) 3px;
+}
+#footerSection article {
+    flex-basis: 35%;
+}
